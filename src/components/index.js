@@ -1,0 +1,8 @@
+export { default as Navbar} from './Navbar'
+export { default as Header } from './Header'
+export {default as SearchFeed} from './SearchFeed'
+export { default as RecentBooks } from './RecentBooks'
+export { default as TopAuthor} from './TopAuthor'
+export {default as Fiction} from './Fiction'
+export { default as Motivation} from './Motivation'
+export { default as Love} from './Love'
